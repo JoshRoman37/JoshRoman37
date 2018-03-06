@@ -1,0 +1,40 @@
+h3{
+border-style:solid;
+border-width:3px;
+border-color:black;
+}
+h1{
+	font-family:Arial;
+	height:30px;
+	width:70;
+	font-size:40px;
+	text-shadow: 2px 1px;
+}
+
+span{
+	text-decoration:underline;
+}
+
+body{
+	height:350px;
+	width:100;
+	background-image:url(MD_background.jpg);
+	background-position:center;
+}
+
+#black{
+		background-color:white;
+}
+
+ul{
+	list-style-type:circle;
+}
+
+.pic{
+	float:left;
+}
+
+.para2{
+	clear:left;
+}
+
